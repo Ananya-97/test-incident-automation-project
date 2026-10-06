@@ -1,0 +1,9 @@
+id,priority,status,team
+INC1001,P1,Open,Database
+INC1002,P3,Closed,Network
+INC1003,P2,Open,Application
+INC1004,P1,Open,Database
+INC1005,P4,Closed,Network
+INC1006,P2,Open,Network
+INC1007,P1,Closed,Application
+INC1008,P3,Open,Database
